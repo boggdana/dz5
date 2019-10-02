@@ -38,13 +38,16 @@ input:active{
 }
 
 label:nth-of-type(3){
-	border-bottom: 2px solid #white;
+	border-bottom: 2px solid white;
 
 }
 
 label:nth-of-type(4){
 background-color: #625E77;	
-	border-top: 2px solid #white;
+}
+
+label:nth-of-type(5){
+	border-top: 2px solid white;
 }
 
 footer{
